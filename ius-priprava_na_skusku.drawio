@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T18:40:41.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="yoXeq_naNAs4jrlNmJJ7" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T18:43:48.653Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="VTktWktCikMUUsfH5b-i" version="22.1.15" type="github">
   <diagram name="Page-1" id="PPvMObpPPiLIUR1Kzq7h">
-    <mxGraphModel dx="2083" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_y4V9acUTY1sXHhgTBID-37" value="&amp;lt;&amp;lt;identif&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_y4V9acUTY1sXHhgTBID-36">
+        <mxCell id="_y4V9acUTY1sXHhgTBID-37" value="&amp;lt;&amp;lt;identif&amp;gt;&amp;gt;chodí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_y4V9acUTY1sXHhgTBID-36">
           <mxGeometry x="-0.0011" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -233,7 +233,7 @@
             <mxPoint x="420" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_y4V9acUTY1sXHhgTBID-57" value="&amp;lt;&amp;lt;indentif&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_y4V9acUTY1sXHhgTBID-56">
+        <mxCell id="_y4V9acUTY1sXHhgTBID-57" value="&amp;lt;&amp;lt;indentif&amp;gt;&amp;gt;určuje" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_y4V9acUTY1sXHhgTBID-56">
           <mxGeometry x="-0.3021" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
