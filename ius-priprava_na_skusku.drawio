@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T18:39:41.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-d7dl8ZRa1sh5YjHPhYO" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T18:40:41.604Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="yoXeq_naNAs4jrlNmJJ7" version="22.1.15" type="github">
   <diagram name="Page-1" id="PPvMObpPPiLIUR1Kzq7h">
     <mxGraphModel dx="2083" dy="699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_y4V9acUTY1sXHhgTBID-7" value="Pacient" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="120" width="140" height="286" as="geometry" />
+          <mxGeometry x="50" y="120" width="140" height="260" as="geometry" />
         </mxCell>
         <mxCell id="_y4V9acUTY1sXHhgTBID-8" value="Rodné číslo" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_y4V9acUTY1sXHhgTBID-7">
           <mxGeometry y="26" width="140" height="26" as="geometry" />
@@ -75,9 +75,6 @@
         </mxCell>
         <mxCell id="_y4V9acUTY1sXHhgTBID-40" value="CisloPoistenca" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_y4V9acUTY1sXHhgTBID-7">
           <mxGeometry y="234" width="140" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="_y4V9acUTY1sXHhgTBID-19" value="LiečebnéOpatrenia" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="_y4V9acUTY1sXHhgTBID-7">
-          <mxGeometry y="260" width="140" height="26" as="geometry" />
         </mxCell>
         <mxCell id="_y4V9acUTY1sXHhgTBID-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_y4V9acUTY1sXHhgTBID-17" target="_y4V9acUTY1sXHhgTBID-3">
           <mxGeometry relative="1" as="geometry" />
